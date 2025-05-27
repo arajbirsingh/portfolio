@@ -3,7 +3,7 @@
     display: flex;
     justify-items: center;
     width: max-content;
-    height: max-content;
+    height: 100px;
      
 }
 
@@ -13,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
+    width:fit-content;
     background-attachment: fixed;
 
 }
@@ -24,14 +25,14 @@ header{
     margin-right: 200px;
 }
 .name a{
-    font-size: xx-large;
+    font-size: x-large;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(253, 253, 253);
     margin-left: 10px;
 }
 nav{
-    margin-left: 450px;
+    margin-left: 400px;
 }
 
 .navi{
