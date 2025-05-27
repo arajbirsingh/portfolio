@@ -2,8 +2,8 @@
     background-color: transparent;
     display: flex;
     justify-items: center;
-    width: max-content;
-    height: max-content;
+    width: fit-content;
+    height: fit-content;
      
 }
 
